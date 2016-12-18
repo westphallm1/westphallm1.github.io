@@ -1,2 +1,2 @@
 # westphallm1.github.io
-My gitub pages
+My github pages
