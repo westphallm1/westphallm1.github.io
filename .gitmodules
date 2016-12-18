@@ -1,0 +1,3 @@
+[submodule "Fdot"]
+    path = Fdot
+    url = https://github.com/westphallm1/Fdot.git 
